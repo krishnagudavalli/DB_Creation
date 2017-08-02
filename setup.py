@@ -6,7 +6,7 @@ with open('README.rst') as f:
 setup(
     name='postgres_db_creation',
     version='0.1.0',
-    description='Python module for importing cloudFormation template, validating and creating a cloudFormation stack.',
+    description='cloudFormation template, validating and creating a cloudFormation stack.',
     long_description=readme,
     author='Quadyster_dev_team',
     author_email='mmunnalluri'@quadyster.com',
